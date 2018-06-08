@@ -1,14 +1,27 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "firstname":"Mandar",
+    "lastname":"patil",
+    "address":"911 washington st hoboken NJ",
+    "contact":"132142141"
+  },
+  {
+    "firstname":"Sneha",
+    "lastname":"patel",
+    "address":"43 washington st hoboken NJ",
+    "contact":"132144141"
+  },
+  {
+    "firstname":"Sagar",
+    "lastname":"desai",
+    "address":"34 washington st hoboken NJ",
+    "contact":"13244141"
+  },
+  {
+    "firstname":"Tejas",
+    "lastname":"desai",
+    "address":"45 washington st hoboken NJ",
+    "contact":"132144541"
   }
-}
+  
+]
